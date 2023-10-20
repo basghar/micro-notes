@@ -11,24 +11,30 @@
    "customizations": {
       "vscode": {
          "extensions": [
-            "ms-vscode.vscode-typescript-next",
-            "angular.ng-template",
-            "esbenp.prettier-vscode",
-            "pranaygp.vscode-css-peek",
-            "eamodio.gitlens",
+            "Angular.ng-template",
+            "GitHub.copilot",
+            "GitHub.copilot-chat",
+            "GitHub.copilot-labs",
             "VisualStudioExptTeam.vscodeintellicode",
-            "christian-kohler.path-intellisense",
-            "ms-azuretools.vscode-docker",
-            "vscode-icons-team.vscode-icons",
-            "formulahendry.auto-rename-tag",
-            "redhat.vscode-yaml",
-            "xabikos.JavaScriptSnippets",
-            "streetsidesoftware.code-spell-checker",
+            "angular.ng-template",
             "christian-kohler.npm-intellisense",
+            "christian-kohler.path-intellisense",
+            "eamodio.gitlens",
+            "esbenp.prettier-vscode",
+            "formulahendry.auto-rename-tag",
+            "foxundermoon.shell-format",
             "mikestead.dotenv",
-            "shd101wyy.markdown-preview-enhanced",
+            "ms-azuretools.vscode-docker",
+            "ms-vscode.vscode-typescript-next",
             "Orta.vscode-jest",
-            "yoavbls.pretty-ts-errors"
+            "pranaygp.vscode-css-peek",
+            "redhat.vscode-yaml",
+            "shd101wyy.markdown-preview-enhanced",
+            "streetsidesoftware.code-spell-checker",
+            "vscode-icons-team.vscode-icons",
+            "xabikos.JavaScriptSnippets",
+            "yoavbls.pretty-ts-errors",
+            "yzhang.markdown-all-in-one"
          ]
       }
    }
